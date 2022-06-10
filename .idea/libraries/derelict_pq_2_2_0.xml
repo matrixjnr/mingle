@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="derelict-pq-2.2.0" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/derelict-pq-2.2.0/derelict-pq/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

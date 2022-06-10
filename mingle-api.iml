@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="DLANGUAGE_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/source" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="vibe-d-0.9.4" level="project" />
+    <orderEntry type="library" name="vibe-d:stream-0.9.4" level="project" />
+    <orderEntry type="library" name="vibe-d:utils-0.9.4" level="project" />
+    <orderEntry type="library" name="stdx-allocator-2.77.5" level="project" />
+    <orderEntry type="library" name="vibe-core-1.22.4" level="project" />
+    <orderEntry type="library" name="eventcore-0.9.20" level="project" />
+    <orderEntry type="library" name="taggedalgebraic-0.11.22" level="project" />
+    <orderEntry type="library" name="libasync-0.8.6" level="project" />
+    <orderEntry type="library" name="memutils-1.0.4" level="project" />
+    <orderEntry type="library" name="vibe-d:web-0.9.4" level="project" />
+    <orderEntry type="library" name="vibe-d:http-0.9.4" level="project" />
+    <orderEntry type="library" name="vibe-d:inet-0.9.4" level="project" />
+    <orderEntry type="library" name="vibe-d:data-0.9.4" level="project" />
+    <orderEntry type="library" name="vibe-d:textfilter-0.9.4" level="project" />
+    <orderEntry type="library" name="vibe-d:tls-0.9.4" level="project" />
+    <orderEntry type="library" name="openssl-1.1.6+1.0.1g" level="project" />
+    <orderEntry type="library" name="botan-1.12.19" level="project" />
+    <orderEntry type="library" name="botan-math-1.0.3" level="project" />
+    <orderEntry type="library" name="vibe-d:crypto-0.9.4" level="project" />
+    <orderEntry type="library" name="mir-linux-kernel-1.0.1" level="project" />
+    <orderEntry type="library" name="diet-ng-1.8.0" level="project" />
+    <orderEntry type="library" name="vibe-d:mail-0.9.4" level="project" />
+    <orderEntry type="library" name="vibe-d:redis-0.9.4" level="project" />
+    <orderEntry type="library" name="vibe-d:mongodb-0.9.4" level="project" />
+    <orderEntry type="library" name="hibernated-0.3.7" level="project" />
+    <orderEntry type="library" name="ddbc-0.5.4" level="project" />
+    <orderEntry type="library" name="odbc-1.0.0" level="project" />
+    <orderEntry type="library" name="derelict-pq-2.2.0" level="project" />
+    <orderEntry type="library" name="derelict-util-2.0.6" level="project" />
+    <orderEntry type="library" name="mysql-native-3.0.3" level="project" />
+  </component>
+</module>

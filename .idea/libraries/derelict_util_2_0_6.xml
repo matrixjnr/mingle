@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="derelict-util-2.0.6" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/derelict-util-2.0.6/derelict-util/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

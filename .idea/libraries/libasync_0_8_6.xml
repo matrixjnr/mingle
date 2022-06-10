@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libasync-0.8.6" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/libasync-0.8.6/libasync/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

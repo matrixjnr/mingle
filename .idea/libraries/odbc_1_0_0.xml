@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="odbc-1.0.0" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/odbc-1.0.0/odbc/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"matrix"
+	],
+	"dependencies": {
+		"hibernated": "~>0.3.7",
+		"vibe-d": "~>0.9.4"
+	},
+	"description": "A simple vibe.d server application.",
+	"license": "proprietary",
+	"name": "mingle-api"
+}

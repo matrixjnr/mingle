@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mir-linux-kernel-1.0.1" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/mir-linux-kernel-1.0.1/mir-linux-kernel/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

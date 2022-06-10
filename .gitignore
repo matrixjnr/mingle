@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/mingle-api
+mingle-api.so
+mingle-api.dylib
+mingle-api.dll
+mingle-api.a
+mingle-api.lib
+mingle-api-test-*
+*.exe
+*.o
+*.obj
+*.lst

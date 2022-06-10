@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vibe-d:http-0.9.4" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/vibe-d-0.9.4/vibe-d/http" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vibe-core-1.22.4" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/vibe-core-1.22.4/vibe-core/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

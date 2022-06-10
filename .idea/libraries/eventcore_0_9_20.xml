@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eventcore-0.9.20" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/eventcore-0.9.20/eventcore/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

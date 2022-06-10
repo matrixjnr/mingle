@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="botan-1.12.19" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/botan-1.12.19/botan/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

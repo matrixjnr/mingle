@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="openssl-1.1.6+1.0.1g" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/openssl-1.1.6_1.0.1g/openssl" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

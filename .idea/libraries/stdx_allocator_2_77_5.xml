@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stdx-allocator-2.77.5" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/stdx-allocator-2.77.5/stdx-allocator/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

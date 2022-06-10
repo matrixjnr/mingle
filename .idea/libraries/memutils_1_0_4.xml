@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="memutils-1.0.4" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/memutils-1.0.4/memutils/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

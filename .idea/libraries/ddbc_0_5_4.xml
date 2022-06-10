@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ddbc-0.5.4" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/ddbc-0.5.4/ddbc/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

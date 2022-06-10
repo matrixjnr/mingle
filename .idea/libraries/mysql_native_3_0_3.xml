@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-native-3.0.3" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/mysql-native-3.0.3/mysql-native/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
