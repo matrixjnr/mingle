@@ -1,8 +1,7 @@
 import vibe.vibe;
 
 //import modules
-import utils;
-import routes;
+import appinfo.appcontroller;
 
 
 
@@ -10,12 +9,25 @@ void main()
 {
 
 	// create router
-	auto router = new URLRouter;
+	URLRouter router = new URLRouter();
 
-	router.get("/", &index);
-	router.get("/a", &indexe);
-	
-	// router.get("/users/:username", &name);
+	AppController appController = new AppController();
+	router.registerWebInterface(appController);
+
+	router.any("*", (HTTPServerRequest req, HTTPServerResponse res) {
+		res.headers["Access-Control-Allow-Origin"] = "*";
+		res.headers["Access-Control-Allow-Headers"] = "*";
+		res.writeBody("");
+	});
+
+	HTTPServerRequestDelegate handleCORS()
+	{
+		return (HTTPServerRequest req, HTTPServerResponse res) {
+			res.headers["Access-Control-Allow-Origin"] = "*";
+			res.headers["Access-Control-Allow-Headers"] = "*";
+			router.handleRequest(req, res);
+		};
+	}
 
 
 	auto settings = new HTTPServerSettings;
