@@ -1,5 +1,7 @@
 module appinfo.appcontroller;
 
+import std.json;
+
 import vibe.http.common : HTTPMethod;
 import vibe.web.rest;
 import vibe.vibe;
@@ -10,6 +12,7 @@ import utils.loggeduser;
 @path("/")
 class AppController : RestController
 {
+    @noAuth
     void index(HTTPServerRequest req, HTTPServerResponse res)
     {
         string msg = `{"message":"welcome to Ming.le API v1.0.0"}`;
